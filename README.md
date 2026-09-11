@@ -1,2 +1,2 @@
 # Rithika
-MSE practical program
+MSE practical programs
